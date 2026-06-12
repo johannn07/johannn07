@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
@@ -25,15 +25,22 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm John Anthony from Cebu, Philippines.<br><br>- 🔭 I’m currently a 3rd year BSIT student in Cebu Institute of Technology – University.<br>- 📚 I'm currently interested in expanding my knowledge about game development<br>- ⚡ I usually waste my time reading comics/novels or find something new to discover.</p>
+<table border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td valign="center" border="0">
+      <h3>👩‍💻 About Me</h3>
+      <p>
+        I'm John Anthony from Cebu, Philippines.<br><br>
+        - 🔭 I'm currently a 3rd year BSIT student in Cebu Institute of Technology – University.<br>
+        - 📚 I'm currently interested in expanding my knowledge about game development<br>
+        - ⚡ I usually waste my time reading comics/novels or find something new to discover.
+      </p>
+    </td>
+    <td valign="center" border="0">
+      <img height="200" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNvZXlyaWRtNXk2ajkxaTh1MHp0OTRveTMxdWF0NHJvMXoyNHZ2YSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ybxc6icWGeWNEznoZU/giphy.gif" />
+    </td>
+  </tr>
+</table>
 
 ###
 
