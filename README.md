@@ -30,29 +30,54 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages & Tools</h3>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+<table>
+  <tr>
+    <td align="center" width="120"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java" height="40" alt="java" />
+      <img width="8" />
+      <img src="https://skillicons.dev/icons?i=python" height="40" alt="python" />
+      <img width="8" />
+      <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
+      <img width="8" />
+      <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin" />
+      <img width="8" />
+      <img src="https://skillicons.dev/icons?i=html" height="40" alt="html" />
+      <img width="8" />
+      <img src="https://skillicons.dev/icons?i=css" height="40" alt="css" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" height="40" alt="react" />
+      <img width="8" />
+      <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring boot" />
+      <img width="8" />
+      <img src="https://skillicons.dev/icons?i=django" height="40" alt="django" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Database</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
+      <img width="8" />
+      <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase" />
+      <img width="8" />
+      <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="neon (postgres)" />
+    </td>
+  </tr>
+</table>
 
 ###
 
