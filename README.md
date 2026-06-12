@@ -13,7 +13,8 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=johannn07.johannn07&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=johannn07.visitor-badge&left_text=visitors&logo=github"  />
+  
 </div>
 
 ###
