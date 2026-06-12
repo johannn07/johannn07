@@ -25,10 +25,13 @@
 
 ###
 
+<h3>👩‍💻 About Me</h3>
+
+###
+
 <table border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td valign="center" border="0">
-      <h3>👩‍💻 About Me</h3>
       <p>
         I'm John Anthony from Cebu, Philippines.<br><br>
         - 🔭 I'm currently a 3rd year BSIT student in Cebu Institute of Technology – University.<br>
