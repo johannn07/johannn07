@@ -57,6 +57,8 @@
     <td>
       <img src="https://skillicons.dev/icons?i=java" height="40" alt="java" />
       <img width="8" />
+      <img src="https://skillicons.dev/icons?i=c" height="40" alt="c" />
+      <img width="8" />
       <img src="https://skillicons.dev/icons?i=python" height="40" alt="python" />
       <img width="8" />
       <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
